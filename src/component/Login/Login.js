@@ -1,5 +1,5 @@
 import React from 'react'
-import { View,TextInput Text, StyleSheet, TouchableOpacity } from 'react-native'
+import { View,TextInput,Text, StyleSheet, TouchableOpacity } from 'react-native'
 
 class Login extends React.Component{
     render() {
