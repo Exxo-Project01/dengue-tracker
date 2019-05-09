@@ -1,17 +1,14 @@
 import React from 'react';
 import {ActivityIndicator,StyleSheet, Text, View } from 'react-native';
 import * as firebase from 'firebase';
-import {Input} from './src/components/Login/input';
-import {Button} from './src/components/Login/Button';
-import { LoginPage } from './src/components/Login/LoginPage';
-import { Home } from './src/components/HomePage/Home';
+import {Button} from '../Login/Button';
+import {LoginPage} from '../Login/LoginPage';
 import {  createStackNavigator } from 'react-navigation';
 console.reportErrorsAsExceptions = false;
 
-export default class App extends React.Component {
-
+export class Home extends React.Component {
   
-  static navigationOptions =
+    static navigationOptions =
     {
        title: 'Dengue Tracker',
     };
@@ -30,12 +27,7 @@ export default class App extends React.Component {
      
 
 }
-// export default Project =  createStackNavigator(
-//     {
-//      First: { screen: Home },
-     
-//      Second: { screen: LoginPage }
-//     });
+
 const styles = StyleSheet.create({
     container: {
       flex: 1,
