@@ -1,13 +1,10 @@
 import React from 'react';
-import {ActivityIndicator,StyleSheet, Text, View } from 'react-native';
+import {ActivityIndicator,StyleSheet, Text, View, Linking } from 'react-native';
 import * as firebase from 'firebase';
-import {Input} from './input';
-import {Button} from './Button';
-console.reportErrorsAsExceptions = false;
+import Input from '../../components/Input/Input';
+import Button from '../../components/Buttons/Button';
 
-export class LoginPage extends React.Component {
-
-  
+export default class Login extends React.Component {
   state = {
     email: '',
     password: '',
@@ -15,6 +12,18 @@ export class LoginPage extends React.Component {
     user: null,
     error: '',
   }
+
+  static navigationOptions = {
+    title: "Login",
+    headerStyle: {
+      backgroundColor: "#03A9F4"
+    },
+    headerTintColor: "#fff",
+    headerTitleStyle: {
+      fontWeight: "bold"
+    }
+  };
+
   componentWillMount(){
     const firebaseConfig = {
       apiKey: 'AIzaSyCDdzV2mcgvArvcm33-XkBWHO6a4XxIyDE',
@@ -27,6 +36,9 @@ export class LoginPage extends React.Component {
     this.setState({
       authenticating: true,
     });
+
+    //Add this code to where the login is success
+    this.props.navigation.navigate('UserDashboard')
 
     const { email, password } = this.state;
 
@@ -100,6 +112,7 @@ export class LoginPage extends React.Component {
           value={this.state.password}
         />
         <Button onPress={() => this.onPressSignIn()}>Log In</Button>
+        <Text style={{marginTop: 20}}>Haven't registered <Text onPress={()=>this.props.navigation.navigate('SignUp')}>Sign Up</Text></Text>
         <Text>{this.state.error}</Text>
       </View>
     )
@@ -127,4 +140,5 @@ const styles = StyleSheet.create({
     flex: 1
   }
 });
+
 

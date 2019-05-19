@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Click Me",
-    "slug": "SimpleApp",
+    "name": "D-Killer",
+    "slug": "dengue-tracker",
     "privacy": "public",
     "sdkVersion": "32.0.0",
     "platforms": [
