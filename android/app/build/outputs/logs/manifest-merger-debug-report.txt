@@ -1,0 +1,156 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-gesture-handler] E:\Projects\Dengue\Github\dengue-tracker\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.57.1] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\react-native-0.57.1.aar\aa8240a6c029991684f6f5efb96f1f7b\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\a77d155bc6aacc90fdd33302875019b6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\eb5d355eba66794d5c13693c6c94161f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\935ce02148fb5a468aff69a95c4c5133\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d305fb4779ab9db0f637069d19d052b1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\d2f4c085bc6587bf365c622b6d01a534\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\794bb0ecc894798d4e7a07fccf898da5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\d3d53c27210e10dd4ce418c445e9778e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\be43dedc8f328bec4c3cba61860e88ee\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\0d0eda1d87c66300380631c4c4d52abb\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\399e5cac8ef4e45e3844de0ef05023d1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\6a6cda4baa7715984b0901c22782ce3b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\5fddcc4c272c14a0b28980987b354480\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\ce8a57743f324045453ab700edbaa31e\AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\1d11984df4357315c38922ea948d95be\AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\cb507a4c37dfcea8deb7a0242b5dfed2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4b6226e9ffdd35c10a8324e29336bd4b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\b54c955facf116c552553a25187973fc\AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6d81209b801d2488dda39cc0a1469cec\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\82ba513a9118b7381e2e2b81d6cf0010\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml:2:5-32
+		INJECTED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.1] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\react-native-0.57.1.aar\aa8240a6c029991684f6f5efb96f1f7b\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.1] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\react-native-0.57.1.aar\aa8240a6c029991684f6f5efb96f1f7b\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml:5:22-75
+application
+ADDED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.57.1] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\react-native-0.57.1.aar\aa8240a6c029991684f6f5efb96f1f7b\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.1] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\react-native-0.57.1.aar\aa8240a6c029991684f6f5efb96f1f7b\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\ce8a57743f324045453ab700edbaa31e\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\ce8a57743f324045453ab700edbaa31e\AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\1d11984df4357315c38922ea948d95be\AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\1d11984df4357315c38922ea948d95be\AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml:8:7-38
+activity#com.denguetracker.MainActivity
+ADDED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-gesture-handler] E:\Projects\Dengue\Github\dengue-tracker\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] E:\Projects\Dengue\Github\dengue-tracker\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.1] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\react-native-0.57.1.aar\aa8240a6c029991684f6f5efb96f1f7b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.1] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\react-native-0.57.1.aar\aa8240a6c029991684f6f5efb96f1f7b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\a77d155bc6aacc90fdd33302875019b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\a77d155bc6aacc90fdd33302875019b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\eb5d355eba66794d5c13693c6c94161f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\eb5d355eba66794d5c13693c6c94161f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\935ce02148fb5a468aff69a95c4c5133\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\935ce02148fb5a468aff69a95c4c5133\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d305fb4779ab9db0f637069d19d052b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d305fb4779ab9db0f637069d19d052b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\d2f4c085bc6587bf365c622b6d01a534\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\d2f4c085bc6587bf365c622b6d01a534\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\794bb0ecc894798d4e7a07fccf898da5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\794bb0ecc894798d4e7a07fccf898da5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\d3d53c27210e10dd4ce418c445e9778e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\d3d53c27210e10dd4ce418c445e9778e\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\be43dedc8f328bec4c3cba61860e88ee\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\be43dedc8f328bec4c3cba61860e88ee\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\0d0eda1d87c66300380631c4c4d52abb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\0d0eda1d87c66300380631c4c4d52abb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\399e5cac8ef4e45e3844de0ef05023d1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\399e5cac8ef4e45e3844de0ef05023d1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\6a6cda4baa7715984b0901c22782ce3b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\6a6cda4baa7715984b0901c22782ce3b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\5fddcc4c272c14a0b28980987b354480\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\5fddcc4c272c14a0b28980987b354480\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\ce8a57743f324045453ab700edbaa31e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\ce8a57743f324045453ab700edbaa31e\AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\cb507a4c37dfcea8deb7a0242b5dfed2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\cb507a4c37dfcea8deb7a0242b5dfed2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4b6226e9ffdd35c10a8324e29336bd4b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4b6226e9ffdd35c10a8324e29336bd4b\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\b54c955facf116c552553a25187973fc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\b54c955facf116c552553a25187973fc\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6d81209b801d2488dda39cc0a1469cec\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6d81209b801d2488dda39cc0a1469cec\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\82ba513a9118b7381e2e2b81d6cf0010\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Asitha\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\82ba513a9118b7381e2e2b81d6cf0010\AndroidManifest.xml:20:5-44
+INJECTED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from E:\Projects\Dengue\Github\dengue-tracker\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
